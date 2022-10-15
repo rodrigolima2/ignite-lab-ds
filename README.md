@@ -6,6 +6,9 @@
 Semana focada no desenvolvimento de um Design System, utilizando Figma, React, Storybook
 e algumas outras ferramentas.
 
+O projeto pode ser acessado por este link:
+https://rodrigolima2.github.io/ignite-lab-ds/
+
 Abaixo estão todas as anotações que fiz durante as aulas.
 
 

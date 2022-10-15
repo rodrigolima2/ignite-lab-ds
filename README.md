@@ -44,7 +44,7 @@ No Figma, ao clicar em Desktop é possível verificar todas as cores que foram u
 - CTRL + D - copia um item, se copiar mais vezes o próximo item seguirá o mesmo padrão de distanciamento entre eles.
 - Para centralizar um item, no menu lateral na parte "design" possuí algumas opções de centralização.
 - Segurar o SHIFT enquanto arrasta um item faz com que ele só se mova verticalmente ou horizontalmente.
-- 
+
 ## World Vector Logo
 Site para buscar logo de várias ferramentas, empresas, branchs.
 
